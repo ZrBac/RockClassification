@@ -1,5 +1,1 @@
 *.tif
-/generated training data/
-/output/model/
-/output/predict/
-
